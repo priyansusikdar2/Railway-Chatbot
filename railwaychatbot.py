@@ -13,7 +13,7 @@ pairs = [
     ],
     [
         r'Why are PNR and reservation availability queries not available after certain timings at night?',
-        ['The online PNR and seat availability queries are fetched from the computerized reservation applications. These are shut down daily around 2330 hrs to 0030 hrs IST.']
+        ['The online PNR and seat availability queries are fetched from the computerized reservation applications. These are shut down daily around 23:30 hrs to 00:30 hrs IST.']
     ],
     [
         r'How can I avail the enquiries, through SMS on mobile phones?',
