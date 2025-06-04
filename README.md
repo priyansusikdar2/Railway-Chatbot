@@ -38,16 +38,16 @@ This project implements a simple FAQ chatbot for Indian Railways-related queries
 pip install -r requirements.txt
 
 **Download NLTK data (stopwords, wordnet, punkt):**
-import nltk
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('punkt')
+- import nltk
+- nltk.download('stopwords')
+- nltk.download('wordnet')
+- nltk.download('punkt')
 
 **Run the Flask app:**
-python app.py
+- python app.py
 
 **Open your browser and visit:**
-http://127.0.0.1:5000
+- http://127.0.0.1:5000
 
 **How It Works**
 - User inputs a question via the web interface.
