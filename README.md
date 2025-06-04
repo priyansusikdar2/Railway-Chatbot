@@ -50,18 +50,20 @@ python app.py
 http://127.0.0.1:5000
 
 **How It Works**
-User inputs a question via the web interface.
+- User inputs a question via the web interface.
 
-The backend preprocesses the question (tokenization, stopword removal, lemmatization).
+- The backend preprocesses the question (tokenization, stopword removal, lemmatization).
 
-It compares the processed input to predefined FAQ questions and finds the best matching question.
+- It compares the processed input to predefined FAQ questions and finds the best matching question.
 
-Returns the corresponding answer as a response to the frontend.
+- Returns the corresponding answer as a response to the frontend.
 
-If no match is found, returns a fallback message.
+- If no match is found, returns a fallback message.
+
 
 **License**
-This project is open-source and free to use under the MIT License.
+
+- This project is open-source and free to use under the MIT License.
 
 
 
